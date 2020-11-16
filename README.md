@@ -4,8 +4,6 @@ This is a 4 legged robot with micro servos. The servos used in this robot are To
 
 ![alt text](https://github.com/ahmetakif/TinyBot-Legged/blob/master/image.png?raw=true)
 
-http://ahmetakifkaya.com/?page_id=675
-
 Mechanical design:
 - This robot is designed in SolidWorks to be 3D printed with PLA material.
 - 23 pieces can be 3D printed to complete this robot.
@@ -29,3 +27,5 @@ Software:
 - The python script in the raspberry pi also controls the PID balance algorithm.
 
 Note: This project is work in progress. There will be upgrades both with the mechanical design and the software.
+
+http://ahmetakifkaya.com/?page_id=675
