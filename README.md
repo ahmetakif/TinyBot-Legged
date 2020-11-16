@@ -2,6 +2,10 @@
 
 This is a 4 legged robot with micro servos. The servos used in this robot are TowerPro SG90 9g Micro servos.
 
+![alt text](https://github.com/ahmetakif/TinyBot-Legged/blob/master/image.png?raw=true)
+
+http://ahmetakifkaya.com/?page_id=675
+
 Mechanical design:
 - This robot is designed in SolidWorks to be 3D printed with PLA material.
 - 23 pieces can be 3D printed to complete this robot.
