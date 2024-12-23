@@ -27,5 +27,3 @@ Software:
 - The python script in the raspberry pi also controls the PID balance algorithm.
 
 Note: This project is work in progress. There will be upgrades both with the mechanical design and the software.
-
-http://ahmetakifkaya.com/?page_id=675
